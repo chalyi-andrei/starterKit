@@ -1,0 +1,11 @@
+body {
+  background-color: #444;
+  text-align: center; }
+  body p {
+    display: inline-block;
+    height: 30vh;
+    background-color: #FFF;
+    padding: 20px 0;
+    width: 700px;
+    -webkit-border-radius: 8px;
+            border-radius: 8px; }
